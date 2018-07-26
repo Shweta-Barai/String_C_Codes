@@ -46,8 +46,8 @@ int main(){
         }
     }
     */
-   // int result =  30 - giveSum(12,13);
-   // printf("%d\n",result);
+    int result =  30 - giveSum(12,13);
+    printf("%d\n",result);
 
     //printf("%d",giveSum(20,40));
 
